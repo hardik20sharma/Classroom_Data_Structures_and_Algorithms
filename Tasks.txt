@@ -4,7 +4,7 @@
 04. 	WAP to delete element in linked list
 05. 	WAP to insert element in doubly linked list
 06. 	WAP to delete element in doubly linked list
-07.	WAP to display element in doubly linked list
+07.	  WAP to display element in doubly linked list
 08. 	WAP to insert, display, delete elements in circular linked list
 09. 	WAP to reverse the elements in array
 10. 	WAP to display sum of numbers using array
@@ -15,4 +15,4 @@
 15. 	WAP to merge two strings in a single string without using standard in-built header files
 16. 	WAP to copy one string into another string without using standard library functions
 17. 	WAP to reverse a string as well as copy into another string without using library functions
-18. WAP to display pascal's triangle as well as store in array
+18.   WAP to display pascal's triangle as well as store in array
